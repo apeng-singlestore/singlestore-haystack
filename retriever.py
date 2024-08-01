@@ -8,7 +8,7 @@ from haystack_integrations.document_stores.singlestore import SingleStoreDocumen
 
 
 @component
-class SingleStoreEmbeddingRetriever:
+class ExampleRetriever:
     """
     A component for retrieving documents from an ExampleDocumentStore.
     """
